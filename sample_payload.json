@@ -1,0 +1,17 @@
+{
+  "data": {
+    "Month": "Jan",
+    "Make": "Pontiac",
+    "AccidentArea": "Urban",
+    "DayOfWeekClaimed": "Monday",
+    "MonthClaimed": "Jan",
+    "WeekOfMonthClaimed": "4",
+    "MaritalStatus": "Married",
+    "VehiclePrice": "less than 20000",
+    "AgeOfVehicle": "more than 7",
+    "AgeOfPolicyHolder": "41 to 50",
+    "AgentType": "External",
+    "AddressChange_Claim": "no change",
+    "NumberOfCars": "1 vehicle"
+  }
+}
